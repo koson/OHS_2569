@@ -1,3 +1,5 @@
+<img width="644" height="552" alt="hazard2" src="https://github.com/user-attachments/assets/4aed8853-de80-432c-8dec-2372b98f3120" />
+<img width="800" height="785" alt="hazard1" src="https://github.com/user-attachments/assets/3274755a-6689-4c53-aebe-33fe413b0c41" />
 ## Homework 2 — OHS Danger Analysis
  
  คุณสามารถส่งคำตอบใหม่ได้เรื่อยๆ จนกว่าจะพอใจคะแนน
