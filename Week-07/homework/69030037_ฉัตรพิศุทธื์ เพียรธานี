@@ -1,0 +1,184 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="PKW-OEC4x3svH4HjTmAT">
+    <mxGraphModel dx="1664" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="126FfL9XP4X_XLKBsbkY-1" connectable="0" parent="1" style="group;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="" vertex="1">
+          <mxGeometry height="160" width="120" x="20" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-2" parent="126FfL9XP4X_XLKBsbkY-1" style="whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="เสียชีวิต" vertex="1">
+          <mxGeometry height="53.33333333333333" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-3" parent="126FfL9XP4X_XLKBsbkY-1" style="whiteSpace=wrap;html=1;fillColor=default;" value="ทุพพลภาพถาวร" vertex="1">
+          <mxGeometry height="53.33333333333333" width="120" y="53.33333333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-4" parent="126FfL9XP4X_XLKBsbkY-1" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;ทุพพลภาพชั่วคราว&lt;/div&gt;" vertex="1">
+          <mxGeometry height="53.33333333333333" width="120" y="106.66666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-5" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="540" width="120" x="220" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-6" parent="126FfL9XP4X_XLKBsbkY-5" style="whiteSpace=wrap;html=1;" value="พลัดตก" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-7" parent="126FfL9XP4X_XLKBsbkY-5" style="whiteSpace=wrap;html=1;" value="วัสดุหล่นทับ" vertex="1">
+          <mxGeometry height="60" width="120" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-8" parent="126FfL9XP4X_XLKBsbkY-5" style="whiteSpace=wrap;html=1;" value="ชน เฉี่ยว กระแทก โดยวัสดุ" vertex="1">
+          <mxGeometry height="60" width="120" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-9" parent="126FfL9XP4X_XLKBsbkY-5" style="whiteSpace=wrap;html=1;" value="หนีบ ดึง หรือจับเข้าระหว่างวัตถุ" vertex="1">
+          <mxGeometry height="60" width="120" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-10" parent="126FfL9XP4X_XLKBsbkY-5" style="whiteSpace=wrap;html=1;" value="ออกแรงเกินกำลัง" vertex="1">
+          <mxGeometry height="60" width="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-11" parent="126FfL9XP4X_XLKBsbkY-5" style="whiteSpace=wrap;html=1;" value="อุณหภูมิสูงหรือต่ำสุดขั้ว" vertex="1">
+          <mxGeometry height="60" width="120" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-12" parent="126FfL9XP4X_XLKBsbkY-5" style="whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="ไฟฟ้า" vertex="1">
+          <mxGeometry height="60" width="120" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-13" parent="126FfL9XP4X_XLKBsbkY-5" style="whiteSpace=wrap;html=1;" value="สารพิษ สารกัดกร่อน หรือรังสี" vertex="1">
+          <mxGeometry height="60" width="120" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-14" parent="126FfL9XP4X_XLKBsbkY-5" style="whiteSpace=wrap;html=1;" value="อื่น ๆ" vertex="1">
+          <mxGeometry height="60" width="120" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-15" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="360" width="120" x="420" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-16" parent="126FfL9XP4X_XLKBsbkY-15" style="whiteSpace=wrap;html=1;" value="เครื่องจักรกล" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-17" parent="126FfL9XP4X_XLKBsbkY-15" style="whiteSpace=wrap;html=1;" value="อุปกรณ์ยกและขนถ่าย" vertex="1">
+          <mxGeometry height="60" width="120" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-18" parent="126FfL9XP4X_XLKBsbkY-15" style="whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="เครื่องจักรกลและอุปกรณ์อื่น ๆ" vertex="1">
+          <mxGeometry height="60" width="120" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-19" parent="126FfL9XP4X_XLKBsbkY-15" style="whiteSpace=wrap;html=1;" value="วัสดุ สารเคมี และรังสี" vertex="1">
+          <mxGeometry height="60" width="120" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-20" parent="126FfL9XP4X_XLKBsbkY-15" style="whiteSpace=wrap;html=1;" value=" สภาพแวดล้อมการทำงาน" vertex="1">
+          <mxGeometry height="60" width="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-21" parent="126FfL9XP4X_XLKBsbkY-15" style="whiteSpace=wrap;html=1;" value="อื่น ๆ" vertex="1">
+          <mxGeometry height="60" width="120" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-22" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="900" width="120" x="630" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-23" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;" value="เกิดบาดแผล" vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-24" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;" value="กระดูกเคลื่อน / ข้อหลุด" vertex="1">
+          <mxGeometry height="60" width="120" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-25" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;" value="เคล็ดขัดยอก ฟกช้ำ บวม" vertex="1">
+          <mxGeometry height="60" width="120" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-26" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;" value="บาดเจ็บภายใน " vertex="1">
+          <mxGeometry height="60" width="120" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-27" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;" value="อวัยวะถูกตัดหรือเฉือน" vertex="1">
+          <mxGeometry height="60" width="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-28" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;" value="บาดแผลฉกรรจ์ " vertex="1">
+          <mxGeometry height="60" width="120" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-29" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;" value="ถูกอัดกระแทกจนเละ" vertex="1">
+          <mxGeometry height="60" width="120" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-30" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;" value="ไฟไหม้ น้ำร้อนลวก" vertex="1">
+          <mxGeometry height="60" width="120" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-31" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;" value="ถูกสารพิษอย่างแรง" vertex="1">
+          <mxGeometry height="60" width="120" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-32" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;" value="แพ้สภาวะแวดล้อม" vertex="1">
+          <mxGeometry height="60" width="120" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-33" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;" value="สลบ หมดสติ / ภาวะขาดอากาศ" vertex="1">
+          <mxGeometry height="60" width="120" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-34" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="กระแสไฟฟ้า " vertex="1">
+          <mxGeometry height="60" width="120" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-35" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;" value="กัมมันตภาพรังสี" vertex="1">
+          <mxGeometry height="60" width="120" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-36" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;" value="ผสมกันหลายสาเหตุ" vertex="1">
+          <mxGeometry height="60" width="120" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-37" parent="126FfL9XP4X_XLKBsbkY-22" style="whiteSpace=wrap;html=1;" value="อื่น ๆ" vertex="1">
+          <mxGeometry height="60" width="120" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-38" connectable="0" parent="1" style="group;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="" vertex="1">
+          <mxGeometry height="600" width="120" x="830" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-39" parent="126FfL9XP4X_XLKBsbkY-38" style="whiteSpace=wrap;html=1;" value="ศีรษะ " vertex="1">
+          <mxGeometry height="60" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-40" parent="126FfL9XP4X_XLKBsbkY-38" style="whiteSpace=wrap;html=1;" value="คอ " vertex="1">
+          <mxGeometry height="60" width="120" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-41" parent="126FfL9XP4X_XLKBsbkY-38" style="whiteSpace=wrap;html=1;" value="ลำตัว" vertex="1">
+          <mxGeometry height="60" width="120" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-42" parent="126FfL9XP4X_XLKBsbkY-38" style="whiteSpace=wrap;html=1;" value="แขนช่วงบน" vertex="1">
+          <mxGeometry height="60" width="120" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-43" parent="126FfL9XP4X_XLKBsbkY-38" style="whiteSpace=wrap;html=1;" value="แขนช่วงล่างและมือ" vertex="1">
+          <mxGeometry height="60" width="120" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-44" parent="126FfL9XP4X_XLKBsbkY-38" style="whiteSpace=wrap;html=1;" value="ขาช่วงบน" vertex="1">
+          <mxGeometry height="60" width="120" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-45" parent="126FfL9XP4X_XLKBsbkY-38" style="whiteSpace=wrap;html=1;" value="ปลายขาและเท้า" vertex="1">
+          <mxGeometry height="60" width="120" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-46" parent="126FfL9XP4X_XLKBsbkY-38" style="whiteSpace=wrap;html=1;" value="บาดเจ็บทั่วไป" vertex="1">
+          <mxGeometry height="60" width="120" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-47" parent="126FfL9XP4X_XLKBsbkY-38" style="whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value=" หลายแห่งพร้อมกัน" vertex="1">
+          <mxGeometry height="60" width="120" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="126FfL9XP4X_XLKBsbkY-48" parent="126FfL9XP4X_XLKBsbkY-38" style="whiteSpace=wrap;html=1;" value="อื่น ๆ" vertex="1">
+          <mxGeometry height="60" width="120" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="vf8vv0z1LRky0Md6PZgL-7" parent="1" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="4.443082110816963" width="4.4500378782049665" x="1124.15996270712" y="204.07172615097056" as="geometry" />
+        </mxCell>
+        <mxCell id="vf8vv0z1LRky0Md6PZgL-8" parent="1" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="4.443082110816963" width="4.4500378782049665" x="1041.302819849977" y="182.16696424620864" as="geometry" />
+        </mxCell>
+        <mxCell id="vf8vv0z1LRky0Md6PZgL-4" edge="1" parent="1" source="126FfL9XP4X_XLKBsbkY-2" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="126FfL9XP4X_XLKBsbkY-12" value="">
+          <mxGeometry relative="1" width="140" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="420" />
+              <mxPoint x="190.03" y="420" />
+              <mxPoint x="190.03" y="580" />
+            </Array>
+            <mxPoint x="140" y="527" as="sourcePoint" />
+            <mxPoint x="220" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW5J2_oMxUvz6f5f5Lq8-2" edge="1" parent="1" source="126FfL9XP4X_XLKBsbkY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="126FfL9XP4X_XLKBsbkY-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW5J2_oMxUvz6f5f5Lq8-6" edge="1" parent="1" source="126FfL9XP4X_XLKBsbkY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="126FfL9XP4X_XLKBsbkY-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KW5J2_oMxUvz6f5f5Lq8-8" edge="1" parent="1" source="126FfL9XP4X_XLKBsbkY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" target="126FfL9XP4X_XLKBsbkY-47" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
