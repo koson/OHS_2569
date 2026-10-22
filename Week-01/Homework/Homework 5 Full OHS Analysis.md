@@ -1,3 +1,5 @@
+<img width="702" height="706" alt="hazard6" src="https://github.com/user-attachments/assets/9844105f-4971-45f8-81a0-3612e79c3f8d" />
+<img width="640" height="704" alt="hazard5" src="https://github.com/user-attachments/assets/38b80779-6e07-4f95-9610-1b8742772519" />
 ## Homework 5 — Full OHS Analysis
 
 ส่งกี่รอบก็ได้จนกว่าจะพอใจคะแนน
