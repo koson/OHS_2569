@@ -1,6 +1,6 @@
 # กิจกรรมปฏิบัติการกลุ่ม (Workshop Week 10 - 11)
 ## การประเมินและวางมาตรการควบคุมความเสี่ยงในสถานที่ทำงาน
-### (Workplace Hazard Identification, Risk Assessment & Hierarchy of Controls)
+### (Workplace Hazard Identification, Risk Assessment & Hierarchy of Controls) 
 
 ---
 
