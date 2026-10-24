@@ -1,3 +1,5 @@
+<img width="677" height="599" alt="Screenshot 2026-07-04 001534" src="https://github.com/user-attachments/assets/3be5b2ac-ef06-4165-b202-21e9c2174cc3" />
+
 # **Prompt สำหรับ Iterative Learning Mode**
 
 ## Homework 1 — OHS Hazard Analysis (Iterative Learning)
