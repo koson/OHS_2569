@@ -1,3 +1,4 @@
+<img width="630" height="676" alt="hazard3" src="https://github.com/user-attachments/assets/4ee9e311-06d1-4c24-a432-33c93f26d13a" />
 ## Homework 3 — OHS Accident Analysis
  
  ส่งกี่รอบก็ได้จนกว่าจะพอใจคะแนน
