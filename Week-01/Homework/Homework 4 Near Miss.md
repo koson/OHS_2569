@@ -1,3 +1,4 @@
+<img width="632" height="739" alt="hazard4" src="https://github.com/user-attachments/assets/60d95f81-ecb7-4572-b21e-959ed4197b64" />
 
 ## Homework 4 — OHS Near Miss Analysis
 ส่งกี่รอบก็ได้จนกว่าจะพอใจคะแนน
