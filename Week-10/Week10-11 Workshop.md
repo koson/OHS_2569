@@ -427,3 +427,10 @@ graph TD
 > *วิชาชีพความปลอดภัย จึงไม่ได้มีไว้เพียงเพื่อ 'ออกกฎเกณฑ์'*  
 > *แต่มีไว้เพื่อ 'ปกป้องผู้คนที่กำลังขับเคลื่อนโลก' ให้ได้กลับบ้านอย่างปลอดภัยในทุกๆ วัน"*
 
+
+
+
+ส่งงาน week 10 
+สไลด์ไฟนอล ฉบับสมบูรณ์
+[Rider_Risk_Assessment_Scenario14_revised (1).pptx](https://github.com/user-attachments/files/34233667/Rider_Risk_Assessment_Scenario14_revised.1.pptx)
+
