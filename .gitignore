@@ -1,3 +1,19 @@
 .obsidian/
 /Week-03/Slide/~$Week-03.pptx
 .agents/skills/termy-obsidian-context/SKILL.md
+
+# PR Grading Local Data (ไม่ส่งคะแนนขึ้น repo)
+.grading_data/
+grading_*.csv
+grading_*.md
+gradebook_*.csv
+
+*.pyc
+pr_grader_app.*
+run_grader.bat
+Student Name.md
+sync_homework.bat
+sync_homework.py
+grade_prs.py
+PR-Overrides.json
+Obsidian-OHS2569.code-workspace
